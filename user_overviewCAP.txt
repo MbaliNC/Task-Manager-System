@@ -1,0 +1,37 @@
+Total number of users registered is 7
+This is the total number of tasks:8
+		admin:
+Number of tasks assigned to user: 3
+Percentage of total numberof tasks assigned to user: 1
+Percentage of tasks that are incomplete:2
+The overdue task percentage: 100.0
+		groot:
+Number of tasks assigned to user: 2
+Percentage of total numberof tasks assigned to user: 0
+Percentage of tasks that are incomplete:2
+The overdue task percentage: 100.0
+		hermoine:
+Number of tasks assigned to user: 0
+Percentage of total numberof tasks assigned to user: 0
+Percentage of tasks that are incomplete:0
+The overdue task percentage: 100.0
+		james:
+Number of tasks assigned to user: 0
+Percentage of total numberof tasks assigned to user: 0
+Percentage of tasks that are incomplete:0
+The overdue task percentage: 100.0
+		kim namjoon:
+Number of tasks assigned to user: 0
+Percentage of total numberof tasks assigned to user: 0
+Percentage of tasks that are incomplete:0
+The overdue task percentage: 100.0
+		tom:
+Number of tasks assigned to user: 0
+Percentage of total numberof tasks assigned to user: 0
+Percentage of tasks that are incomplete:0
+The overdue task percentage: 100.0
+		mbali:
+Number of tasks assigned to user: 3
+Percentage of total numberof tasks assigned to user: 0
+Percentage of tasks that are incomplete:3
+The overdue task percentage: 100.0

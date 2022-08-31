@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+groot, destroy, eliminate all mosquitos, 10 oct 2019, 20 oct 2019, No
+admin, register users with task manager, use task manager to add the username and password for all team members that will be using the program, 10 oct 2019, 20 oct 2019, No
+groot, go to sleep, kill all frogs, 10 oct 2019, 20 oct 2019, No
+mbali, nap, don't write something weird, 12/04/2023, 15/07/2022, No
+mbali, nap, find jesus, 12/08/2022, 15/07/2022, No
+mbali, mall, find out where the bees went, 12/04/2022, 15/07/2022, No
